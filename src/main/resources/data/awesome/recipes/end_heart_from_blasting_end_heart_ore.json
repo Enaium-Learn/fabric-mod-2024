@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": "100",
+  "experience": 10.0,
+  "group": "end_heart",
+  "ingredient": {
+    "item": "awesome:end_heart_ore"
+  },
+  "result": "awesome:end_heart"
+}

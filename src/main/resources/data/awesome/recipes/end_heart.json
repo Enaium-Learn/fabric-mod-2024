@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "awesome:end_heart_block"
+    }
+  ],
+  "result": {
+    "item": "awesome:end_heart",
+    "count": 9
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EEE",
+    "E E"
+  ],
+  "key": {
+    "E": {
+      "item": "awesome:end_heart"
+    }
+  },
+  "result": {
+    "item": "awesome:end_helmet",
+    "count": 1
+  }
+}
